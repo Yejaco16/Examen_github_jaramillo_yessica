@@ -8,3 +8,7 @@ es un país de Sudamérica que abarca una sección del bosque del Amazonas y Mac
 
 Machu Picchu hasta el vibrante Lima y el impresionante Lago Titicaca.
 
+
+### comida tipica
+
+el ceviche, la causa limeña, el ají de gallina, el lomo saltado y el arroz chaufa
