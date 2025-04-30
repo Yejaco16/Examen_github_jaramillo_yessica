@@ -12,3 +12,8 @@ las Cataratas del Iguazú, la Patagonia con el Glaciar Perito Moreno y la ciudad
 ### comida tipica
 
 el asado, empanadas, milanesas, alfajores y la pizza argentina.
+
+
+## foto
+![](https://fotografias.larazon.es/clipping/cmsimages01/2025/02/14/B85105F0-12F6-4AB5-ACBD-58FDF87C4D76/capital-argentina-arrebatadora-casi-infinita_98.jpg?crop=3164,1780,x0,y0&width=1900&height=1069&optimize=low&format=webply)
+
