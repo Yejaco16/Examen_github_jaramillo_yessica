@@ -9,3 +9,8 @@ pais asiatico conocido por sus animaciones
 
 visitar sus tiendas de comis y cds de anime
 
+
+### comida tipica
+
+ramen
+
