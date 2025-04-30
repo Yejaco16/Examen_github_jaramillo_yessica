@@ -7,3 +7,8 @@ Argentina es un país sudamericano de gran envergadura con un terreno que incluy
 ### recomendacion
 
 las Cataratas del Iguazú, la Patagonia con el Glaciar Perito Moreno y la ciudad de Ushuaia, y la capital Buenos Aires con su rica cultura y arquitectura.
+
+
+### comida tipica
+
+el asado, empanadas, milanesas, alfajores y la pizza argentina.
