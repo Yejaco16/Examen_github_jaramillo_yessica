@@ -10,3 +10,7 @@ pais amenazado por el conflicto armado.
 
 visitar sus pueblos y localidades
 
+
+### comida tipica
+
+arroz con pollo, ensalada y jugo
