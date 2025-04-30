@@ -9,3 +9,6 @@ pais pluricultural donde viven diversas aves y tiene hermosos lugares turisticos
 visitar sus ciudades, playas , montañas y rios.
 
 
+### comida tipica
+
+bandeja paisa, bandeja costeña, sopa.
