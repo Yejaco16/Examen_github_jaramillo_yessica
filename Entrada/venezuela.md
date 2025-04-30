@@ -9,3 +9,6 @@ pais conocido por sus playas y sitios turisticos.
 
 visitar sus ciudades
 
+### comidas tipicas
+
+arepa, sopa, pasteles.
