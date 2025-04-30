@@ -12,3 +12,8 @@ Machu Picchu hasta el vibrante Lima y el impresionante Lago Titicaca.
 ### comida tipica
 
 el ceviche, la causa limeña, el ají de gallina, el lomo saltado y el arroz chaufa
+
+
+## foto
+
+![](https://www.latamairlines.com/content/dam/latamxp/sites/destinos/peru/deals/lim-deals.jpg.transform/sm/image.jpg)
